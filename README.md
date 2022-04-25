@@ -1,6 +1,5 @@
 - 👋 Hi, I’m dz xia.
 - 👀 I’m interested in inertial navigation and indoor positioning.
-- 🌱 I’m currently learning MATLAB.
 - 📫 How to reach me - email: dzxia920@gmail.com
 
 <!---
